@@ -1,0 +1,11 @@
+We recevied an account registration for this email address.  To create an account, you must first verify your email address.
+
+Verify your email address by clicking or copying the url below into a browser:
+
+{{url}}
+
+If you did not initiate this request, please contact security@blocktetris.com.
+
+— BlockTetris Security Team
+
+Copyright {{year}} BlockTetris, All rights reserved.

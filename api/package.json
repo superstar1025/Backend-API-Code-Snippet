@@ -1,0 +1,21 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "incoming API requests to handle accounts, contracts, etc.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js --watch ../lib --watch ../api --watch ../connect --watch ../test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.17.4"
+  },
+  "dependencies": {
+    "jsonwebtoken": "latest",
+    "bcryptjs": "latest",
+    "jwks-rsa": "latest",
+    "express-jwt": "latest"
+  }
+}

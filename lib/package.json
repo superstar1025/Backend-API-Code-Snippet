@@ -1,0 +1,24 @@
+{
+  "name": "lib",
+  "version": "1.0.0",
+  "description": "Shared libraries for use by applications",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.17.4"
+  },
+  "dependencies": {
+    "async": "latest",
+    "aws-sdk": "latest",
+    "bcryptjs": "latest",
+    "crypto-js": "3.1.9-1",
+    "dateformat": "latest",
+    "email-templates": "latest",
+    "express-winston": "2.5.1",
+    "jsonwebtoken": "latest",
+    "nodemailer": "latest",
+    "nodemailer-mailgun-transport": "latest",
+    "pug": "latest",
+    "winston": "2.4.4"
+  }
+}
